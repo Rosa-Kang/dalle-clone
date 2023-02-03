@@ -1,5 +1,5 @@
 # Delle-Clone
-
+dalle-clone project is using DALL·E 2, a new AI system that can create realistic images and art from a description in natural language.<br>
 
 ## What techniques are being used?
 **Dalle-clone is MERN stack application** which is utilizing MongoDB, Express, React and Node.js <br>
