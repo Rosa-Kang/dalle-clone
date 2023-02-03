@@ -8,7 +8,7 @@ ___
 
 ## Error Log
 
-|Header|Description|
+|Error Log|Solution|
 |:--:|:--:|
 |npm start error|folder structure was not proper: moved index.js inside server|
 |SyntaxError: Unexpected token 'B'|api address should be correct. localhost:8000 was entered when 8080 was being pointed.|
