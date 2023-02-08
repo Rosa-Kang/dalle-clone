@@ -12,4 +12,5 @@ ___
 |:--:|:--:|
 |npm start error|folder structure was not proper: moved index.js inside server|
 |SyntaxError: Unexpected token 'B'|api address should be correct. localhost:8000 was entered when 8080 was being pointed.|
+|SyntaxError: Unexpected token 'B'|same error occured 2nd time and it was node version conflict. After downloading node 18+, the server worked with no error.|
 
