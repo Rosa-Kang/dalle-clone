@@ -16,4 +16,4 @@ ___
 |npm start error|folder structure was not proper: moved index.js inside server|
 |SyntaxError: Unexpected token 'B'|api address should be correct. localhost:8000 was entered when 8080 was being pointed.|
 |SyntaxError: Unexpected token 'B'|same error occured 2nd time and it was node version conflict. After downloading node 18+, the server worked with no error.|
-
+|favicon.ico 404 (not found)|famouse error, 404 favicon not found : I have solved this by creating .htaccess file in server directory and put IfModule tag to redirect and match with fake favicon.|
